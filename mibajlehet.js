@@ -1,5 +1,8 @@
 const drinks = [
-    'semmi'
+    'semmi',
+    'nem sok',
+    'kérdezd babót',
+    'hozz egy sört'
 ];
 
 const randomDrink = drinks[ Math.floor(Math.random() * drinks.length) ];
