@@ -1,12 +1,9 @@
-const drinks = [
-    'semmi',
-    'nem sok',
-    'kérdezd babót',
-    'hozz egy sört'
+const problems = [
+    'EU Staging Downsizing'
 ];
 
-const randomDrink = drinks[ Math.floor(Math.random() * drinks.length) ];
+const randomProblem = problems[ Math.floor(Math.random() * problems.length) ];
 
 window.onload = function () {
-    document.getElementById('mibajlehet').innerText = randomDrink;
+    document.getElementById('mibajlehet').innerText = randomProblem;
 }
