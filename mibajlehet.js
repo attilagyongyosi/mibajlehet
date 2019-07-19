@@ -1,5 +1,5 @@
 const problems = [
-    'EU Staging Downsizing'
+    'Hanufer Leánybúcsú'
 ];
 
 const randomProblem = problems[ Math.floor(Math.random() * problems.length) ];
