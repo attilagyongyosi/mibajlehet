@@ -1,5 +1,5 @@
 const problems = [
-    'Hanufer Leánybúcsú'
+    'Sörivó magyarok Amszterdamban'
 ];
 
 const randomProblem = problems[ Math.floor(Math.random() * problems.length) ];
