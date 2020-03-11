@@ -1,9 +1,9 @@
-const problems = [
-    'Sörivó magyarok Amszterdamban'
+const PROBLEMS = [
+    'Bezár az Ibolya a koronavírus miatt'
 ];
 
-const randomProblem = problems[ Math.floor(Math.random() * problems.length) ];
+const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
 
 window.onload = function () {
     document.getElementById('mibajlehet').innerText = randomProblem;
-}
+};
