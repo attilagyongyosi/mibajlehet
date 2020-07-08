@@ -1,6 +1,5 @@
 const PROBLEMS = [
-    'Bezár az Ibolya a koronavírus miatt',
-    'Bangladesben tömeges imádkozást szerveznek a koronavírus ellen'
+    'Debug mód Productionben, DB credential-ökkel'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
