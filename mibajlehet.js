@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'Debug mód Productionben, DB credential-ökkel'
+    '3 Liter Paulaner'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
