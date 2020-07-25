@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    '3 Liter Paulaner'
+    '2-t fizet 3-at kap Somlói Cornus pálinka'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
