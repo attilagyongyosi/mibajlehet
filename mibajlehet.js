@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    '2-t fizet 3-at kap Somlói Cornus pálinka'
+    'Fix értékű Content-Length header a requestben'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
