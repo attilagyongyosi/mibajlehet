@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'Fix értékű Content-Length header a requestben'
+    'PingFederate 10 upgrade az univerzum legnagyobb Navigator regressionje közben'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
