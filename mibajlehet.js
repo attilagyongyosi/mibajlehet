@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'Hozzá tudsz férni a GA fájlrendszeréhez XML injection-ön keresztül'
+    'Még egy EPAM interjú Csabival'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
