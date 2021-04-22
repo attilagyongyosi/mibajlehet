@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'Még egy EPAM interjú Csabival'
+    'High prio production issue első napodon team leaderként'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
