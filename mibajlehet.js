@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'High prio production issue első napodon team leaderként'
+    'Alexa férjhez megy... Viktorhoz.'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
