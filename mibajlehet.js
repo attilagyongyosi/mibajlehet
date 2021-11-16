@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'Alexa férjhez megy... Viktorhoz.'
+    'A WK felveszi Thanost a GBS-hez.'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
