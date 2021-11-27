@@ -1,5 +1,5 @@
 const PROBLEMS = [
-    'A WK felveszi Thanost a GBS-hez.'
+    '🌶 Hot Ones est Tsipáéknál 🔥'
 ];
 
 const randomProblem = PROBLEMS[ Math.floor(Math.random() * PROBLEMS.length) ];
